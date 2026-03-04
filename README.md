@@ -113,11 +113,11 @@ I'm a passionate **Full Stack Developer** with a strong foundation in the **MERN
 
 <table>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/IIT_Roorkee_logo.png/200px-IIT_Roorkee_logo.png" width="60"/></td>
+    <td><img src="CAMSVhoyKhBlLThuR21tRU1EdWRHdk9NMg44bkdtbUVNRHVkR3ZPTToOOVEwZWQ0bVhvS1BEVE0gBCocCgZtb3NhaWMSEGUtOG5HbW1FTUR1ZEd2T00YADABGAcgwdjAuQMwAkoIEAIYAiACKAI" width="60"/></td>
     <td>
       <strong>Indian Institute of Technology (IIT) Roorkee</strong><br/>
-      B.Tech / M.Tech · [Your Department]<br/>
-      📅 [Year of Graduation]<br/>
+      B.Tech · ECE<br/>
+      📅 2024<br/>
       🏆 One of India's oldest and most prestigious technical institutions (est. 1847)
     </td>
   </tr>
@@ -125,95 +125,11 @@ I'm a passionate **Full Stack Developer** with a strong foundation in the **MERN
 
 ---
 
-## 📌 Featured Projects
-
-### 🛒 [Project Name 1](https://github.com/yourusername/project1)
-> A full-stack e-commerce platform built with MERN + TypeScript
-
-- **Stack:** React · TypeScript · Node.js · Express · MongoDB · Redux Toolkit
-- **Testing:** Jest (90%+ coverage) · Postman Collections
-- **Features:** JWT auth, payment integration, real-time order tracking
-- ⭐ Stars: ![GitHub stars](https://img.shields.io/github/stars/yourusername/project1?style=social)
-
----
-
-### 💬 [Project Name 2](https://github.com/yourusername/project2)
-> Real-time chat application with WebSockets
-
-- **Stack:** React · Node.js · Socket.io · MongoDB · TypeScript
-- **Testing:** Jest unit tests · Postman WebSocket testing
-- **Features:** Rooms, direct messaging, online presence indicators
-- ⭐ Stars: ![GitHub stars](https://img.shields.io/github/stars/yourusername/project2?style=social)
-
----
-
-### 📊 [Project Name 3](https://github.com/yourusername/project3)
-> Developer productivity dashboard with analytics
-
-- **Stack:** Next.js · TypeScript · Express · PostgreSQL · Redis
-- **Testing:** React Testing Library · Jest · Postman Monitors
-- **Features:** OAuth login, data visualization, caching layer
-- ⭐ Stars: ![GitHub stars](https://img.shields.io/github/stars/yourusername/project3?style=social)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Mastering TypeScript Generics in a MERN Stack App](https://yourblog.com)
-- [TDD with Jest: Writing Tests Before Code Actually Works](https://yourblog.com)
-- [Postman to Production: API Testing Best Practices](https://yourblog.com)
-- [MongoDB Schema Design Patterns You Should Know](https://yourblog.com)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📫 Let's Connect
-
-I'm always open to interesting conversations, collaboration, or new opportunities.
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) |
-| 🐦 Twitter / X | [@yourhandle](https://twitter.com/yourhandle) |
-| 🌐 Portfolio | [yourportfolio.com](https://yourportfolio.com) |
-| 📧 Email | [your@email.com](mailto:your@email.com) |
-| 🧑‍💻 LeetCode | [leetcode.com/yourprofile](https://leetcode.com/yourprofile) |
-
 </div>
 
 ---
 
 <div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
-
 *"First, solve the problem. Then, write the code." — John Johnson*
 
 </div>
