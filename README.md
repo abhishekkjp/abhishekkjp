@@ -113,7 +113,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in the **MERN
 
 <table>
   <tr>
-    <td><img src="CAMSVhoyKhBlLThuR21tRU1EdWRHdk9NMg44bkdtbUVNRHVkR3ZPTToOOVEwZWQ0bVhvS1BEVE0gBCocCgZtb3NhaWMSEGUtOG5HbW1FTUR1ZEd2T00YADABGAcgwdjAuQMwAkoIEAIYAiACKAI" width="60"/></td>
+    <td>![IIT Roorkee Logo](https://ir.iitr.ac.in)</td>
     <td>
       <strong>Indian Institute of Technology (IIT) Roorkee</strong><br/>
       B.Tech · ECE<br/>
