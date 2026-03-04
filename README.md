@@ -17,7 +17,7 @@
 
 I'm a passionate **Full Stack Developer** with a strong foundation in the **MERN stack** and **TypeScript**, graduated from the prestigious **Indian Institute of Technology (IIT) Roorkee**. I love building scalable, performant, and maintainable web applications — from pixel-perfect UIs to robust RESTful APIs.
 
-- 🎓 **B.Tech / M.Tech** from **IIT Roorkee**
+- 🎓 **B.Tech  from **IIT Roorkee**
 - 💼 Specialized in **end-to-end product development** using the MERN stack
 - 🔬 Strong believer in **test-driven development** with Jest
 - 📡 API-first thinker with deep expertise in **Postman** for testing & documentation
