@@ -114,8 +114,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in the **MERN
 <table>
   <tr>
     <td width="150">
-      <!-- Direct image link below -->
-      <img src="https://ir.iitr.ac.in" alt="IIT Roorkee Logo" width="120"/>
+      <img src="https://avatars.githubusercontent.com/u/7013537?s=200&v=4" width="120"/>
     </td>
     <td>
       <strong>Indian Institute of Technology (IIT) Roorkee</strong><br/>
